@@ -4,3 +4,5 @@ modify by user 2
 feature 2
 
 release 1
+
+user 2 updated
